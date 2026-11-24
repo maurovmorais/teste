@@ -1,1 +1,1 @@
-Maquina para executar as automações para fazer upload dos objetos para o S3.
+Maquina para executar as automações de  upload dos objetos para o S3.
